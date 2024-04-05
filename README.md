@@ -22,15 +22,16 @@ python -m venv venv
 {venv_name}\scripts\activate.bat 
 ```
 
-### Install pandas: this lib will be used to work with the data:
+### Install
+#### pandas (will be used to work with the data):
 ```
 pip install pandas
 ```
-
+#### yfinance (will be used to perform data analysis):
 ```
 pip install yfinance
 ```
-
+#### openpyxl (necessary to read/write xlsx/xlsm/xltx/xltm files):
 ```
 pip install openpyxl
 ```
