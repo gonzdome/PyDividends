@@ -30,3 +30,7 @@ pip install pandas
 ```
 pip install yfinance
 ```
+
+```
+pip install openpyxl
+```
